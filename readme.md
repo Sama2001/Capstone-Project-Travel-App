@@ -24,4 +24,4 @@ This is a travel app that allows users to input a destination and date, and retr
 ## Testing
 Run `npm test` to execute Jest tests.
 
-## Note <br> i have removed the node_modules folder , because the sumbmission had failed with the folder exist
+## Note <br> # i have removed the node_modules folder , because the sumbmission had failed with the folder exist
