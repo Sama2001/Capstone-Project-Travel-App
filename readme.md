@@ -34,31 +34,31 @@ TRAVELAPP/
 ├── package-lock.json # Lockfile for dependencies
 ├── package.json # Project metadata and dependencies
 ├── readme.md # Project documentation
-└── webpack.config.js # Webpack configuration file <br>
+└── webpack.config.js # Webpack configuration file 
 ---
 
 ## Installation
 Follow these steps to set up the project locally:
 
-### 1. Clone the Repository <br>
-### 2. Install Dependencies : npm install <br>
+### 1. Clone the Repository 
+### 2. Install Dependencies : npm install
 
-## Development Mode <br> 
+## Development Mode 
 ### npm run dev
 
-## Build the project: <br>
-### npm run build <br>
+## Build the project: 
+### npm run build
 
-## Start the production server: <br>
+## Start the production server: 
 ### npm start
 
-## Testing: The project includes a test suite using Jest and Supertest <br>
+## Testing: The project includes a test suite using Jest and Supertest 
 ### npm test
 
-## Environment Variables <br>
-### GEONAMES_USERNAME=sada <br>
-### WEATHERBIT_API_KEY=e28b4584c0f64b31af94a61046970166	<br>
-### PIXABAY_API_KEY=49169526-b6f4623da4e13b351cc6b7ade <br>
+## Environment Variables 
+### GEONAMES_USERNAME=sada 
+### WEATHERBIT_API_KEY=e28b4584c0f64b31af94a61046970166	
+### PIXABAY_API_KEY=49169526-b6f4623da4e13b351cc6b7ade 
 
 ---
 ## Dependencies 
