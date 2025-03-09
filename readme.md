@@ -19,7 +19,9 @@ This is a travel app that allows users to input a destination and date, and retr
 4. Run `npm run build` to build the project.
 
 ## Requirements
-- Node.js v20.15.1
+- Node.js v20.15.1 
 
 ## Testing
 Run `npm test` to execute Jest tests.
+
+## Note <br> i have removed the node_modules folder , because the sumbmission had failed with the folder exist
